@@ -1,0 +1,64 @@
+﻿
+@{
+    //ViewBag.Title = "XYZ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+value1=@ViewBag.Value1
+<br />
+value2=@ViewBag.Value2
+
+<br />
+id=@ViewBag.id
+
+<h2>Index</h2>
+
+
+@{
+    string s = "abc";
+    int i = 100;
+    i = ViewBag.a;
+}
+
+@{
+    if (i % 2 == 0)
+    {
+        s = "even";
+    }
+    else
+    {
+        s = "odd";
+    }
+
+}
+
+i = @i
+<br />
+s = @s
+<br />
+
+
+@if (i % 2 == 0)
+{
+
+    @:result = even<br />
+}
+else
+{
+    @:result= odd<br />
+}
+
+
+<table border="1">
+    @for (int j = 1; j < 5; j++)
+    {
+        <tr>
+            <td>5</td>
+            <td>*</td>
+            <td>@j</td>
+            <td>=</td>
+            <td>@(j*5)</td>
+        </tr>
+
+    }
+</table>
+

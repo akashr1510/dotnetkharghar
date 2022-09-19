@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day7\ThreadingExamples\bin\Debug\ThreadingExamples.exe.config
+D:\Trainings\JKJan22\Day7\ThreadingExamples\bin\Debug\ThreadingExamples.exe
+D:\Trainings\JKJan22\Day7\ThreadingExamples\bin\Debug\ThreadingExamples.pdb
+D:\Trainings\JKJan22\Day7\ThreadingExamples\obj\Debug\ThreadingExamples.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day7\ThreadingExamples\obj\Debug\ThreadingExamples.exe
+D:\Trainings\JKJan22\Day7\ThreadingExamples\obj\Debug\ThreadingExamples.pdb
+D:\Trainings\JKJan22\Day7\ThreadingExamples\obj\Debug\ThreadingExamples.csproj.AssemblyReference.cache

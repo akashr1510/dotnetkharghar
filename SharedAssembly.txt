@@ -1,0 +1,23 @@
+
+
+Creating a shared assembly
+
+
+1. Generate the key pair
+command line
+sn -k key.snk
+OR
+Visual Studio  - Project Properties - Signing
+
+2. Sign the assembly with "key pair" (public key - private key)
+Visual Studio - Project Properties - Signing
+
+3. Create a "strong named" assembly
+Build the project
+
+4. Install it in the GAC
+command line - 
+GACUTIL /i Asm1.Dll
+
+
+Global Assembly Cache (GAC)

@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day8\ReflectionExample\obj\Debug\ReflectionExample.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day8\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day8\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+D:\Trainings\JKJan22\Day8\ReflectionExample\bin\Debug\ReflectionExample.exe
+D:\Trainings\JKJan22\Day8\ReflectionExample\bin\Debug\ReflectionExample.pdb
+D:\Trainings\JKJan22\Day8\ReflectionExample\obj\Debug\ReflectionExample.exe
+D:\Trainings\JKJan22\Day8\ReflectionExample\obj\Debug\ReflectionExample.pdb

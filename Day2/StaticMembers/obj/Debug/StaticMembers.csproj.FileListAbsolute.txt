@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day2\StaticMembers\bin\Debug\StaticMembers.exe.config
+D:\Trainings\JKJan22\Day2\StaticMembers\bin\Debug\StaticMembers.exe
+D:\Trainings\JKJan22\Day2\StaticMembers\bin\Debug\StaticMembers.pdb
+D:\Trainings\JKJan22\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day2\StaticMembers\obj\Debug\StaticMembers.exe
+D:\Trainings\JKJan22\Day2\StaticMembers\obj\Debug\StaticMembers.pdb

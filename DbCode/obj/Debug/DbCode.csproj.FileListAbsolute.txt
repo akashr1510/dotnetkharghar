@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\DbCode\bin\Debug\DbCode.exe.config
+D:\Trainings\JKJan22\DbCode\bin\Debug\DbCode.exe
+D:\Trainings\JKJan22\DbCode\bin\Debug\DbCode.pdb
+D:\Trainings\JKJan22\DbCode\obj\Debug\DbCode.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\DbCode\obj\Debug\DbCode.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\DbCode\obj\Debug\DbCode.exe
+D:\Trainings\JKJan22\DbCode\obj\Debug\DbCode.pdb

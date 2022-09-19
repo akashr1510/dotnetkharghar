@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\bin\Debug\WorkingWithTasks.exe.config
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\bin\Debug\WorkingWithTasks.exe
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\bin\Debug\WorkingWithTasks.pdb
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\obj\Debug\WorkingWithTasks.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\obj\Debug\WorkingWithTasks.exe
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\obj\Debug\WorkingWithTasks.pdb
+D:\Trainings\JKJan22\Day7\WorkingWithTasks\obj\Debug\WorkingWithTasks.csproj.AssemblyReference.cache

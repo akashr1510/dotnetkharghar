@@ -1,0 +1,19 @@
+to do
+
+
+
+read on odata
+https://www.odata.org/
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint
+
+
+
+bundling 
+minification
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/performance/bundling-and-minification
+
+
+intro to asp.net mvc core
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-5.0

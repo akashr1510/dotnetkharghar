@@ -1,0 +1,6 @@
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe.config
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\bin\Debug\FuncActionPredicate.pdb
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\obj\Debug\FuncActionPredicate.exe
+D:\Trainings\JKJan22\Day5\FuncActionPredicate\obj\Debug\FuncActionPredicate.pdb

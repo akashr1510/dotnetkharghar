@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day6\LanguageFeatures\bin\Debug\LanguageFeatures.exe.config
+D:\Trainings\JKJan22\Day6\LanguageFeatures\bin\Debug\LanguageFeatures.exe
+D:\Trainings\JKJan22\Day6\LanguageFeatures\bin\Debug\LanguageFeatures.pdb
+D:\Trainings\JKJan22\Day6\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day6\LanguageFeatures\obj\Debug\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day6\LanguageFeatures\obj\Debug\LanguageFeatures.exe
+D:\Trainings\JKJan22\Day6\LanguageFeatures\obj\Debug\LanguageFeatures.pdb

@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.exe.config
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.exe
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\bin\Debug\AsyncCodeUsingDelegates.pdb
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.exe
+D:\Trainings\JKJan22\Day7\AsyncCodeUsingDelegates\obj\Debug\AsyncCodeUsingDelegates.pdb

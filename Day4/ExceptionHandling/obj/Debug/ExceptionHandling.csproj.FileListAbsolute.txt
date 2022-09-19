@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Trainings\JKJan22\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Trainings\JKJan22\Day4\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Trainings\JKJan22\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Trainings\JKJan22\Day4\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

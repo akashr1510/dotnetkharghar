@@ -1,0 +1,10 @@
+D:\Trainings\JKJan22\Day2\InheritanceExamples\bin\Debug\InheritanceExamples.exe.config
+D:\Trainings\JKJan22\Day2\InheritanceExamples\bin\Debug\InheritanceExamples.exe
+D:\Trainings\JKJan22\Day2\InheritanceExamples\bin\Debug\InheritanceExamples.pdb
+D:\Trainings\JKJan22\Day2\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day2\InheritanceExamples\obj\Debug\InheritanceExamples.exe
+D:\Trainings\JKJan22\Day2\InheritanceExamples\obj\Debug\InheritanceExamples.pdb
+D:\Trainings\JKJan22\Day2\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day2\InheritanceExamples\bin\Debug\TestAccessSpecifiers.dll
+D:\Trainings\JKJan22\Day2\InheritanceExamples\bin\Debug\TestAccessSpecifiers.pdb
+D:\Trainings\JKJan22\Day2\InheritanceExamples\obj\Debug\InheritanceExamples.csproj.CopyComplete

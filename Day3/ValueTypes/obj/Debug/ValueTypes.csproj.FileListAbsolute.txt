@@ -1,0 +1,7 @@
+D:\Trainings\JKJan22\Day3\ValueTypes\bin\Debug\ValueTypes.exe.config
+D:\Trainings\JKJan22\Day3\ValueTypes\bin\Debug\ValueTypes.exe
+D:\Trainings\JKJan22\Day3\ValueTypes\bin\Debug\ValueTypes.pdb
+D:\Trainings\JKJan22\Day3\ValueTypes\obj\Debug\ValueTypes.csproj.AssemblyReference.cache
+D:\Trainings\JKJan22\Day3\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJan22\Day3\ValueTypes\obj\Debug\ValueTypes.exe
+D:\Trainings\JKJan22\Day3\ValueTypes\obj\Debug\ValueTypes.pdb
